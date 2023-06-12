@@ -7,8 +7,7 @@
 - [x] Emojis
 # Table
 - https://wd23-e05-b.slack.com/archives/C05AD9FG8D7/p1686573710895499
-- /home/dci-student/Downloads/images
-- emoji
+- ![image(https://)]
 
 
 
